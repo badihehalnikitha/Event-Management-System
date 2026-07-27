@@ -110,22 +110,4 @@ No additional installation is required.
 
 ---
 
-## 👩‍💻 Author
 
-**Nikitha**
-
-GitHub: https://github.com/your-username
-
-LinkedIn: https://linkedin.com/in/your-profile
-
----
-
-## 📜 License
-
-This project is created for educational and portfolio purposes.
-
----
-
-## ⭐ If you like this project
-
-Give this repository a ⭐ on GitHub.
